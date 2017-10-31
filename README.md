@@ -25,9 +25,9 @@ Format of the file:
 
 Circuit requirements
 
-*Nodes should be enumerated in turn (0, 1, 2, 3...) - no random or missing numbers would be accepted (eg. 0, 2, 3, 5,...)
-*There should be '0' node, which means 'zero potential' (because of the calculation method - nodal analysis).
-*There shouldn't be any extra (redundant) nodes.
+* Nodes should be enumerated in turn (0, 1, 2, 3...) - no random or missing numbers would be accepted (eg. 0, 2, 3, 5,...)
+* There should be '0' node, which means 'zero potential' (because of the calculation method - nodal analysis).
+* There shouldn't be any extra (redundant) nodes.
 
 
 Example of the input file is given in the repositiory (obwod.txt)
