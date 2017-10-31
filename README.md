@@ -16,8 +16,10 @@ Format of the file:
 
 1. Output file name (optionally with extension)
 2. List of elements in form:
-	*Element's name (including also elemnt's type, eg. R1) node '+' node '-' value (in basic units)
-	*every parameter of the element in the list should be separated from other with a whitespace
+
+	Element's name (including also elemnt's type, eg. R1) node '+' node '-' value (in basic units), eg. R1 1 0 3
+	(every parameter of the element in the list should be separated from other with a whitespace)
+
 3. End of the list:
 	.END
 
